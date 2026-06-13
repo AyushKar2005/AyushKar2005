@@ -95,6 +95,8 @@ I don't just study algorithms — I'm a **Codeforces Expert (1704)** and **LeetC
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKar2005&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushKar2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushKar2005/AyushKar2005/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushKar2005/AyushKar2005/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AyushKar2005/AyushKar2005/output/github-snake.svg"/>
+</picture>
