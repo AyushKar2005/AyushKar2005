@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=AyushKar2005&label=Profile%20views&color=6C63FF&style=flat"/>
 </p>
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Ayush+Kar+👋;Codeforces+Expert+%7C+Rating+1704;Full-Stack+%2B+ML+Engineer;Building+Axon+Studio+🧠" alt="Typing SVG" />
+</div>
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&width=560&lines=Hi+there!+I'm+Ayush+Kar+👋;Full-Stack+%2B+ML+Engineer;Codeforces+Expert+%7C+1704+Rating;Building+Axon+Studio+🧠" alt="Typing SVG" />
-</h1>
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**.
 
