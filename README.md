@@ -10,7 +10,7 @@
 
 I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**.
 
-I don't just study algorithms — I'm a **Codeforces Expert (1704)** and **LeetCode Knight (1942, top 3.49% globally)** with 723+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
+I don't just study algorithms — I'm a **Codeforces Expert (1710)** and **LeetCode Knight (2047, top 1.98% globally)** with 744+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
 
 - 🔭 &nbsp;Currently building **[Axon Studio](https://github.com/AyushKar2005/axon-studio)** — a browser-native neural network playground with live decision boundaries, gradient flow, and shareable experiments
 - 🛠️ &nbsp;Actively working on **MiniDB** — a database engine from scratch in C++ (LSM-tree, compaction, WAL)
