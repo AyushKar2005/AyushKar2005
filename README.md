@@ -3,10 +3,12 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Ayush+Kar+👋;Codeforces+Expert+%7C+Rating+1704;Full-Stack+%2B+ML+Engineer;Building+Axon+Studio+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Ayush+Kar+👋;Codeforces+Expert+%7C+Rating+1736;Full-Stack+%2B+ML+Engineer;Building+Axon+Studio+🧠" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+<br/>
 
 I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**.
 
@@ -31,10 +33,10 @@ I don't just study algorithms — I'm a **Codeforces Expert (1736)** and **LeetC
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/AyushKar" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Expert%201704-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-Expert%201736-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Ayush-Kar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Knight%201942-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Knight%202047-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://ayush-kar-dev-portfolio-nivlu0khw-ayush-kars-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -47,7 +49,7 @@ I don't just study algorithms — I'm a **Codeforces Expert (1736)** and **LeetC
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Axon Studio](https://github.com/AyushKar2005/axon-studio)** | Browser-native ML playground — build, train, visualize neural nets with no setup | Next.js · TF.js · D3.js · Supabase |
+| **[Axon Studio](https://axonstudio.vercel.app/) · [repo](https://github.com/AyushKar2005/axon-studio)** | Browser-native ML playground — build, train, visualize neural nets with no setup | Next.js · TF.js · D3.js · Supabase |
 | **[Football Analysis](https://github.com/AyushKar2005/football-analysis)** | 4-stage CV pipeline — player tracking, team classification, tactical metrics from raw video | Python · YOLOv8 · OpenCV |
 | **[Sign Language Detection](https://github.com/AyushKar2005/sign-language-detection)** | Real-time ASL classifier at 28 FPS on CPU using MediaPipe keypoints | Python · TensorFlow · OpenCV |
 | **[J.A.R.V.I.S](https://github.com/AyushKar2005/jarvis-voice-assistant)** | Modular desktop voice assistant — voice commands, app control, web automation | Python · PyQt5 |
@@ -88,7 +90,7 @@ I don't just study algorithms — I'm a **Codeforces Expert (1736)** and **LeetC
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushKar2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKar2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKar2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="180"/>
 </p>
 
 <p align="center">
