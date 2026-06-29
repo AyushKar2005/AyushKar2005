@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Ayush+Kar+👋;Codeforces+Expert+%7C+Rating+1736;Full-Stack+%2B+ML+Engineer;Building+Axon+Studio+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Ayush+Kar+👋;Codeforces+Expert;Full-Stack+%2B+ML+Engineer;Building+Axon+Studio+🧠" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -12,7 +12,7 @@
 
 I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**.
 
-I don't just study algorithms — I'm a **Codeforces Expert (1736)** and **LeetCode Knight (2137, top 1.29% globally)** with 765+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
+I don't just study algorithms — I'm a **Codeforces Expert** and **LeetCode Knight (2137, top 1.29% globally)** with 766+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
 
 - 🔭 &nbsp;Currently building **[Axon Studio](https://axonstudio.vercel.app/)** — a browser-native neural network playground with live decision boundaries, gradient flow, and shareable experiments
 - 🛠️ &nbsp;Actively working on **MiniDB** — a database engine from scratch in C++ (LSM-tree, compaction, WAL)
