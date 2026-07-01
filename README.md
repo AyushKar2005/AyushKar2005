@@ -12,7 +12,7 @@
 
 I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**.
 
-I don't just study algorithms — I'm a **Codeforces Expert** and **LeetCode Knight (2137, top 1.29% globally)** with 766+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
+I don't just study algorithms — I'm a **Codeforces Expert** and **LeetCode Knight (2137, top 1.29% globally)** with 767+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
 
 - 🔭 &nbsp;Currently building **[Axon Studio](https://axonstudio.vercel.app/)** — a browser-native neural network playground with live decision boundaries, gradient flow, and shareable experiments
 - 🛠️ &nbsp;Actively working on **MiniDB** — a database engine from scratch in C++ (LSM-tree, compaction, WAL)
