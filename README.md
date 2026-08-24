@@ -45,7 +45,7 @@ I don't just study algorithms — I'm a **Codeforces Expert** and **LeetCode Kni
 
 ---
 
-### 🚀 Featured Projects
+###🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
