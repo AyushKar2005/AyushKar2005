@@ -10,7 +10,7 @@
 
 <br/>
 
-I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**.
+I'm a CS undergrad at **KIIT** building real systems at the intersection of **machine learning**, **full-stack engineering**, and **computer vision**
 
 I don't just study algorithms — I'm a **Codeforces Expert** and **LeetCode Knight (2192, top 0.95% globally)** with 849+ problems solved. I care about the gap between a working prototype and a production-quality system — and closing it.
 
